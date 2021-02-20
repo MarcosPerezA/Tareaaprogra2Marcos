@@ -1,0 +1,12 @@
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\obj\Debug\netcoreapp3.1\Mayus.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\obj\Debug\netcoreapp3.1\Mayus.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\obj\Debug\netcoreapp3.1\Mayus.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\bin\Debug\netcoreapp3.1\Mayus.exe
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\bin\Debug\netcoreapp3.1\Mayus.deps.json
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\bin\Debug\netcoreapp3.1\Mayus.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\bin\Debug\netcoreapp3.1\Mayus.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\bin\Debug\netcoreapp3.1\Mayus.dll
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\bin\Debug\netcoreapp3.1\Mayus.pdb
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\obj\Debug\netcoreapp3.1\Mayus.dll
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\obj\Debug\netcoreapp3.1\Mayus.pdb
+C:\Users\W10\Desktop\programas prora\Mayus\Mayus\obj\Debug\netcoreapp3.1\Mayus.genruntimeconfig.cache

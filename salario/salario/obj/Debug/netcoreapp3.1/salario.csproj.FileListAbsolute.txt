@@ -1,0 +1,13 @@
+C:\Users\W10\Desktop\programas prora\salario\salario\bin\Debug\netcoreapp3.1\salario.exe
+C:\Users\W10\Desktop\programas prora\salario\salario\bin\Debug\netcoreapp3.1\salario.deps.json
+C:\Users\W10\Desktop\programas prora\salario\salario\bin\Debug\netcoreapp3.1\salario.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\salario\salario\bin\Debug\netcoreapp3.1\salario.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\salario\salario\bin\Debug\netcoreapp3.1\salario.dll
+C:\Users\W10\Desktop\programas prora\salario\salario\bin\Debug\netcoreapp3.1\salario.pdb
+C:\Users\W10\Desktop\programas prora\salario\salario\obj\Debug\netcoreapp3.1\salario.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\programas prora\salario\salario\obj\Debug\netcoreapp3.1\salario.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\salario\salario\obj\Debug\netcoreapp3.1\salario.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\salario\salario\obj\Debug\netcoreapp3.1\salario.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\salario\salario\obj\Debug\netcoreapp3.1\salario.dll
+C:\Users\W10\Desktop\programas prora\salario\salario\obj\Debug\netcoreapp3.1\salario.pdb
+C:\Users\W10\Desktop\programas prora\salario\salario\obj\Debug\netcoreapp3.1\salario.genruntimeconfig.cache

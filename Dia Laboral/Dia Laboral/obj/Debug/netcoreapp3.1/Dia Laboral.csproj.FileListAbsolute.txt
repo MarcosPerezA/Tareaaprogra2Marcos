@@ -1,0 +1,13 @@
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\obj\Debug\netcoreapp3.1\Dia Laboral.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\obj\Debug\netcoreapp3.1\Dia Laboral.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\obj\Debug\netcoreapp3.1\Dia Laboral.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\obj\Debug\netcoreapp3.1\Dia Laboral.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\bin\Debug\netcoreapp3.1\Dia Laboral.exe
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\bin\Debug\netcoreapp3.1\Dia Laboral.deps.json
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\bin\Debug\netcoreapp3.1\Dia Laboral.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\bin\Debug\netcoreapp3.1\Dia Laboral.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\bin\Debug\netcoreapp3.1\Dia Laboral.dll
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\bin\Debug\netcoreapp3.1\Dia Laboral.pdb
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\obj\Debug\netcoreapp3.1\Dia Laboral.dll
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\obj\Debug\netcoreapp3.1\Dia Laboral.pdb
+C:\Users\W10\Desktop\programas prora\Dia Laboral\Dia Laboral\obj\Debug\netcoreapp3.1\Dia Laboral.genruntimeconfig.cache

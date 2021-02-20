@@ -1,0 +1,13 @@
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\bin\Debug\netcoreapp3.1\Descuentos.exe
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\bin\Debug\netcoreapp3.1\Descuentos.deps.json
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\bin\Debug\netcoreapp3.1\Descuentos.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\bin\Debug\netcoreapp3.1\Descuentos.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\bin\Debug\netcoreapp3.1\Descuentos.dll
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\bin\Debug\netcoreapp3.1\Descuentos.pdb
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\obj\Debug\netcoreapp3.1\Descuentos.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\obj\Debug\netcoreapp3.1\Descuentos.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\obj\Debug\netcoreapp3.1\Descuentos.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\obj\Debug\netcoreapp3.1\Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\obj\Debug\netcoreapp3.1\Descuentos.dll
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\obj\Debug\netcoreapp3.1\Descuentos.pdb
+C:\Users\W10\Desktop\programas prora\Descuentos\Descuentos\obj\Debug\netcoreapp3.1\Descuentos.genruntimeconfig.cache
